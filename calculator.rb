@@ -1,2 +1,2 @@
-first_number = "Hello world!"
+first_number = "Hello world!".to_r
 
