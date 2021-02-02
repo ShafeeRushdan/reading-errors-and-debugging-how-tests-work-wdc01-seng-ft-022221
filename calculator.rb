@@ -1,2 +1,2 @@
-(first_number).to_a 
+first_number = "Hello world!"
 
